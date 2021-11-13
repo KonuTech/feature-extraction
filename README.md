@@ -1,5 +1,4 @@
-- dimensionality 
-- reduction
+- dimensionality reduction
 - autoencoders
 - embeddings
 - clusterization
